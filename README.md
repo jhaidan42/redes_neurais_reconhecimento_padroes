@@ -1,0 +1,3 @@
+Este projeto apresenta um aplicação de Redes Neurais Artificiais para reconhecimento de padrões. O objetivo do trabalho é aplicar Redes Neurais Artificiais para reconhecimento de padrões em imagens de peças fabricadas por fundição.<br>
+O arquivo ```impulsores.m``` deve ser executado para leitura das imagens, treinamento de uma rede com entradas dos dados das imagens e classificação das mesmas pela rede treinada.<br>
+O [artigo](https://github.com/jhaidan42/redes_neurais_reconhecimento_padroes/files/10108561/Atv_Ass_4_Jhaidan.pdf) produzido apresenta o procedimento realizado, os resultados e as conclusões do estudo.
